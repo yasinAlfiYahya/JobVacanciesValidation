@@ -16,7 +16,7 @@ The Covid-19 pandemic has caused some people to lose their jobs. In the data on 
 ### Learn more about Bangkit here:
 https://grow.google/intl/id_id/bangkit/
 ## This project is developed by C22-PS102.
-### C22-PS102 Team Member:
+### B21-CAP0203 Team Member:
 (Machine Learning) M2012F1195 - Aisyah Munisera - Universitas Telkom
 
 (Machine Learning) M2004G0356 - Muhammad Azki Rasyid - Institut Teknologi Sepuluh Nopember
